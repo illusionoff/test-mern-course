@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "siniakou portfolio learning ",
+  "mongoURL": "mongodb+srv://siniakou:16sin17alex18@cluster0.rl5db.mongodb.net/portfolio?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
